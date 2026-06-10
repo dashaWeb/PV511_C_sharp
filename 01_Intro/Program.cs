@@ -22,6 +22,7 @@
         {
             Console.WriteLine("Error value");
         }
+        
     }
     private static void Main(string[] args)
     {
@@ -72,7 +73,7 @@
         //}
 
         //int day = Convert.ToInt32(Console.ReadLine());
-        //switch (day)
+        //switch (day) ==
         //{
         //    case 1:
         //        Console.WriteLine("Monday");
@@ -125,7 +126,7 @@
 
         }
         while (true);
-
+        
     }
 }
 /*
