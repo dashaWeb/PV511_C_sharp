@@ -82,5 +82,13 @@ internal class Program
         Console.WriteLine(text2);
         text2.Remove(10,5);
         Console.WriteLine(text2);
+
+        Console.WriteLine(text);
+        var res = text.Split(' ');
+        Console.WriteLine(res[0]);
+        Array.Reverse(res);
+        Console.WriteLine(res[0]);
+        text = string.Join(' ', res);
+        Console.WriteLine(text);
     }
 }
