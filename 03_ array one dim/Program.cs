@@ -41,7 +41,7 @@
     }
     private static void Main(string[] args)
     {
-        // class Array - абстрактний клас, від якого успадковуються масивиint
+        // class Array - абстрактний клас, від якого успадковуються масиви 
         int[] arr = new int[5] { 1, 2, 3, 4, 5 };
         int[] arr2 = { 10, 20, 30, 40 };
         Print(arr, "Print Array");

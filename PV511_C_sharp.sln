@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_ref params", "02_ref par
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_ array one dim", "03_ array one dim\03_ array one dim.csproj", "{61EF766E-2F1F-4555-80CA-A3FA4B090D0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_array multi dim", "04_array multi dim\04_array multi dim.csproj", "{CF0DEA36-1AF1-4FB2-A47C-153FD73CACA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_string & stringBuilder", "05_string & stringBuilder\05_string & stringBuilder.csproj", "{C50206B2-3D90-4A94-8920-1227A5C5FD90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{61EF766E-2F1F-4555-80CA-A3FA4B090D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61EF766E-2F1F-4555-80CA-A3FA4B090D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61EF766E-2F1F-4555-80CA-A3FA4B090D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF0DEA36-1AF1-4FB2-A47C-153FD73CACA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0DEA36-1AF1-4FB2-A47C-153FD73CACA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0DEA36-1AF1-4FB2-A47C-153FD73CACA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0DEA36-1AF1-4FB2-A47C-153FD73CACA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C50206B2-3D90-4A94-8920-1227A5C5FD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50206B2-3D90-4A94-8920-1227A5C5FD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50206B2-3D90-4A94-8920-1227A5C5FD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50206B2-3D90-4A94-8920-1227A5C5FD90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
