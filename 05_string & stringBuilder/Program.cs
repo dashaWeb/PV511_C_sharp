@@ -17,7 +17,7 @@ internal class Program
     private static void Main(string[] args)
     {
         // string -- immtable
-        // System.Text.StringBuilder 
+        // System.Text.StringBuilder = new System.Text.StringBuilder()
         //string text = "lorem ipsum dolor C#";
         //Console.WriteLine(text[0]);
         ////text[0] = 'L';
