@@ -56,6 +56,7 @@ internal class Program
         double dValue = test;
         Console.WriteLine($" one cast to double {dValue}"); ;
         Console.WriteLine($" one cast to double {(double)test}"); ;
+        
     }
     // Визначити для Дробу оператор *
 }

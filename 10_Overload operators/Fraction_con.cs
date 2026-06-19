@@ -57,6 +57,7 @@ namespace _10_Overload_operators
         {
             return (double)one.Num / one.Denum;
         }
+       
     }
 }
 
