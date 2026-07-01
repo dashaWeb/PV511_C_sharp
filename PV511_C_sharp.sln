@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23_Delegate as params", "23
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24_std_Delegates", "24_std_Delegates\24_std_Delegates.csproj", "{083122E6-C942-4D7A-8067-3E67141C49A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_Events", "Events\25_Events.csproj", "{4EFCAFE5-16AD-4B0C-BB2B-8C9C93DD1613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_EventHandler with args", "26_EventHandler with args\26_EventHandler with args.csproj", "{2FC3DD3F-9AF8-4316-B073-E5BF640EA6FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{083122E6-C942-4D7A-8067-3E67141C49A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{083122E6-C942-4D7A-8067-3E67141C49A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{083122E6-C942-4D7A-8067-3E67141C49A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EFCAFE5-16AD-4B0C-BB2B-8C9C93DD1613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFCAFE5-16AD-4B0C-BB2B-8C9C93DD1613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFCAFE5-16AD-4B0C-BB2B-8C9C93DD1613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFCAFE5-16AD-4B0C-BB2B-8C9C93DD1613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC3DD3F-9AF8-4316-B073-E5BF640EA6FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC3DD3F-9AF8-4316-B073-E5BF640EA6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC3DD3F-9AF8-4316-B073-E5BF640EA6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC3DD3F-9AF8-4316-B073-E5BF640EA6FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
