@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _28_Generic___Stack
 {
-    class MyStack<T> : IStack<T>
+    class MyStack<T> : IStack<T>, IEnumerable<T>
     {
         T[] stack;
         const int Empty = -1;
@@ -43,6 +43,17 @@ namespace _28_Generic___Stack
             stack[++top] = elem;
         }
 
+        public IEnumerator<T> GetEnumerator()
+        {
+            for (int i = 0; i < Count; i++)
+            {
+                yield return stack[i];
+            }
+        }
 
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return stack.GetEnumerator();
+        }
     }
 }

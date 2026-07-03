@@ -9,7 +9,10 @@ internal class Program
         stack.Push(20);
         stack.Push(30);
 
-      
+        foreach (var item in stack)
+        {
+            Console.WriteLine(item);
+        }
 
         while (stack.Count > 0)
         {
