@@ -22,7 +22,7 @@
 
 
         // 1 way
-        Console.WriteLine($"Content ReadAllText :: {File.ReadAllText(fname)}");
+        Console.WriteLine($"Content ReadAllText :: {File.ReadAllText(@"C:\\Users\\kap19\\Desktop\\test.txt")}");
         // 2 way
         Console.WriteLine($"\n\n Content File.ReadAllLines \n");
         /*var*/ string[] lines = File.ReadAllLines(fname);
