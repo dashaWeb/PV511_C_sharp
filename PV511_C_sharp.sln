@@ -77,6 +77,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35_XML_Serialization", "35_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36_JSON_Serialization", "36_JSON_Serialization\36_JSON_Serialization.csproj", "{FD3E831D-6DAB-4807-9B98-0D5567F221D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37_File _ FileInfo", "37_File _ FileInfo\37_File _ FileInfo.csproj", "{5A748B7F-7F44-467B-9A90-77460014BDCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38_Directory_DirectoryInfo", "38_Directory_DirectoryInfo\38_Directory_DirectoryInfo.csproj", "{7974044A-B519-410B-9038-847DA3CDFD2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +235,14 @@ Global
 		{FD3E831D-6DAB-4807-9B98-0D5567F221D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD3E831D-6DAB-4807-9B98-0D5567F221D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD3E831D-6DAB-4807-9B98-0D5567F221D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A748B7F-7F44-467B-9A90-77460014BDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A748B7F-7F44-467B-9A90-77460014BDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A748B7F-7F44-467B-9A90-77460014BDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A748B7F-7F44-467B-9A90-77460014BDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7974044A-B519-410B-9038-847DA3CDFD2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7974044A-B519-410B-9038-847DA3CDFD2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7974044A-B519-410B-9038-847DA3CDFD2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7974044A-B519-410B-9038-847DA3CDFD2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
