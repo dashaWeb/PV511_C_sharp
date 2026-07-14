@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37_File _ FileInfo", "37_Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38_Directory_DirectoryInfo", "38_Directory_DirectoryInfo\38_Directory_DirectoryInfo.csproj", "{7974044A-B519-410B-9038-847DA3CDFD2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39_LINQ to object", "39_LINQ to object\39_LINQ to object.csproj", "{F5AC7FEF-F2C8-43BF-A204-5320EA854F1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{7974044A-B519-410B-9038-847DA3CDFD2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7974044A-B519-410B-9038-847DA3CDFD2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7974044A-B519-410B-9038-847DA3CDFD2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5AC7FEF-F2C8-43BF-A204-5320EA854F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AC7FEF-F2C8-43BF-A204-5320EA854F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AC7FEF-F2C8-43BF-A204-5320EA854F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AC7FEF-F2C8-43BF-A204-5320EA854F1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
